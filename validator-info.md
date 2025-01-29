@@ -7,8 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-| PrimeStake  | https://primestake.top  |  N/A | Iceland  | https://github.com/PrimeStakeTop  | pprimestake@gmail.com  | primestake.top
-  | https://www.mintscan.io/atomone/tx/F753934D9C74B0BC6C5D799978D39B4094EBBA0D3D141BF4E032E239A688D1CE?height=1564866  |
+| PrimeStake  | https://primestake.top  |  N/A | Iceland  | https://github.com/PrimeStakeTop  | pprimestake@gmail.com  | primestake.top | F753934D9C74B0BC6C5D799978D39B4094EBBA0D3D141BF4E032E239A688D1CE  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
